@@ -1,5 +1,5 @@
 # Analog-Clock
-This is a website of a Tech Agency. I have developed it using HTML, CSS, JavaScript.
+This is fully functional alarm clock. I have developed it using HTML, CSS, JavaScript.
 
 ### Deployment
 | Environment | Link |
