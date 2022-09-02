@@ -21,5 +21,5 @@ This is a website of a Tech Agency. I have developed it using HTML, CSS, JavaScr
 
 
 ### Website Preview:
-<img src="./img/Analog-Clock.png" alt="Analog Clock">
+<img src="./images/Analog-Clock.png" alt="Analog Clock">
 
